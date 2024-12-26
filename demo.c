@@ -2,4 +2,6 @@
 int main()
 {
     printf("HELLO WORLD\n");
+    printf("HARISH");
+    printf("HELLO");
 }
